@@ -1,2 +1,2 @@
 # BEEP
-Censoring and squeaking ban words in audio and video files 
+просто запустите по блокам и поменяёте пути
